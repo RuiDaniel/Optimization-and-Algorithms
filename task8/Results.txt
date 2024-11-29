@@ -1,0 +1,15 @@
+Task 8 results:
+
+For initial values:
+p = (-1 0);
+v = (0 1);
+The final estimate of p and v:
+p = (1.77,-0.92169)
+v = (-0.95188,1.4953)
+
+For initial values:
+p = (0, 0);
+v = (1, 0);
+The final estimate of p and v:
+p = (-1.649,-0.35186)
+v = (1.3854,1.1058)
